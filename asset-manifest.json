@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gin/static/css/main.246c1fdd.chunk.css",
+    "main.js": "/gin/static/js/main.c950d322.chunk.js",
+    "main.js.map": "/gin/static/js/main.c950d322.chunk.js.map",
+    "runtime-main.js": "/gin/static/js/runtime-main.d0fd2a26.js",
+    "runtime-main.js.map": "/gin/static/js/runtime-main.d0fd2a26.js.map",
+    "static/js/2.adbf11f4.chunk.js": "/gin/static/js/2.adbf11f4.chunk.js",
+    "static/js/2.adbf11f4.chunk.js.map": "/gin/static/js/2.adbf11f4.chunk.js.map",
+    "index.html": "/gin/index.html",
+    "precache-manifest.f24e0c7a4b8cc0c3d6a94059056d6b37.js": "/gin/precache-manifest.f24e0c7a4b8cc0c3d6a94059056d6b37.js",
+    "service-worker.js": "/gin/service-worker.js",
+    "static/css/main.246c1fdd.chunk.css.map": "/gin/static/css/main.246c1fdd.chunk.css.map",
+    "static/js/2.adbf11f4.chunk.js.LICENSE.txt": "/gin/static/js/2.adbf11f4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gin/static/media/COLLEGIA.fc7a9adb.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0fd2a26.js",
+    "static/js/2.adbf11f4.chunk.js",
+    "static/css/main.246c1fdd.chunk.css",
+    "static/js/main.c950d322.chunk.js"
+  ]
+}
